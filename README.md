@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jas1330
-- 👀 I’m interested in data entry...
-- 🌱 I’m currently learning ..ms excel.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in data
+- 💞️ I’m looking to collaborate on data projects
 - 📫 How to reach me jasdeepkaursaini42@gmail.com..
 
 <!---
